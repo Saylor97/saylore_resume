@@ -20,7 +20,6 @@ Student at Brigham Young University Idaho.
 __Brigham Young University Idaho__, Rexburg, ID
 
 - Data Science Major
-
 - 3.79 GPA
 
 
