@@ -6,10 +6,8 @@ title: Erik Saylor
 Student at Brigham Young University Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="say16004@byui.edu">datascience@byui.edu</a>
 | <a href="https://www.linkedin.com/in/eriksaylor/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -20,6 +18,7 @@ Student at Brigham Young University Idaho.
 __Brigham Young University Idaho__, Rexburg, ID
 
 - Data Science Major
+- Statistics Minor
 - 3.79 GPA
 
 
