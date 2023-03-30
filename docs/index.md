@@ -6,7 +6,7 @@ title: Erik Saylor
 Student at Brigham Young University Idaho.
 
 <div id="webaddress">
-<a href="say16004@byui.edu">datascience@byui.edu</a>
+<a href="say16004@byui.edu">say16004@byui.edu</a>
 | <a href="https://www.linkedin.com/in/eriksaylor/">LinkedIn</a>
 </div>
 
